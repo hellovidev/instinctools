@@ -8,10 +8,12 @@
 
 > Date [19.11.2021]
 
-- [ ] [Fetching Remote Data With Core Data Background Context in iOS App]([https://](https://medium.com/swift2go/fetching-remote-data-with-core-data-background-context-in-ios-app-224dad15ef6c))
-- [ ] [Fixing pyramid of doom/nested callbacks, Async-Await style](https://swiftlyanand.medium.com/fixing-pyramid-of-doom-nested-callbacks-async-await-style-50fcaadf7024)
+- [ ] [Fetching Remote Data With Core Data Background Context in iOS App](https://medium.com/swift2go/fetching-remote-data-with-core-data-background-context-in-ios-app-224dad15ef6c)
+- [x] [Fixing pyramid of doom/nested callbacks, Async-Await style](https://swiftlyanand.medium.com/fixing-pyramid-of-doom-nested-callbacks-async-await-style-50fcaadf7024)
 
 > Date [20.11.2021]
+
+- [x] [How to Make Your App Available Offline](https://yalantis.com/blog/offline-mode-application/)
 
 > Date [21.11.2021]
 
