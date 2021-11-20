@@ -14,6 +14,7 @@
 > Date [20.11.2021]
 
 - [x] [How to Make Your App Available Offline](https://yalantis.com/blog/offline-mode-application/)
+- [ ] [Repository pattern using Core Data and Swift](https://www.userdesk.io/blog/repository-pattern-using-core-data-and-swift/)
 
 > Date [21.11.2021]
 
