@@ -4,6 +4,7 @@
 
 - [x] [NSFetchedResultsControllerDelegate](https://developer.apple.com/documentation/coredata/nsfetchedresultscontrollerdelegate)
 - [x] [NSFetchedResultsController](https://developer.apple.com/documentation/coredata/nsfetchedresultscontroller)
+- [x] [Exploring the Fetched Results Controller Delegate Protocol](https://cocoacasts.com/exploring-the-fetched-results-controller-delegate-protocol/)
 
 > Date [19.11.2021]
 
