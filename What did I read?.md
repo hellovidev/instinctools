@@ -30,8 +30,7 @@
 - [x] [Squircle](https://coderoad.ru/18389114/%D0%9D%D0%B0%D1%80%D0%B8%D1%81%D1%83%D0%B9%D1%82%D0%B5-iOS-7-style-squircle-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE)
 - [x] [Escape the Pyramid of Doom](https://levelup.gitconnected.com/escape-the-pyramid-of-doom-c58edd326225)
 - [x] [Swift networking with Combine](https://www.userdesk.io/blog/swift-networking-with-combine/)
-- [x] [How to build a binary framework in Xcode 11
-](https://www.userdesk.io/blog/how-to-build-a-binary-framework-in-xcode-11/)
+- [x] [How to build a binary framework in Xcode 11](https://www.userdesk.io/blog/how-to-build-a-binary-framework-in-xcode-11/)
 
 > Date [22.11.2021]
 
