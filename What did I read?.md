@@ -42,9 +42,31 @@
 - [ ] [Protocol oriented networking using URLSession with Swift](https://www.userdesk.io/blog/protocol-oriented-networking-using-url-session-with-swift/)
 - [ ] [Sending data in Swift using Combine](https://www.userdesk.io/blog/sending-data-in-swift-using-combine/)
 - [ ] [Binary Frameworks in Swift](https://developer.apple.com/videos/play/wwdc2019/416/)
+- [ ] [How to perform throttling in Swift](https://bmnotes.com/2020/04/23/how-to-perform-throttling-in-swift-debounce/)
+- [ ] [Throttling in Swift without going reactive](https://stackoverflow.com/questions/43322682/throttling-in-swift-without-going-reactive)
+- [ ] [Method: throttle(for:scheduler:latest:)](https://developer.apple.com/documentation/combine/fail/throttle(for:scheduler:latest:))
+- [ ] [Throttling calls for searching in Swift](https://mobikul.com/throttling-calls-for-searching-in-swift/)
 
 > Date [23.11.2021]
 
+---
+
 > Date [24.11.2021]
 
+---
+
 > Date [25.11.2021]
+
+---
+
+> Date [26.11.2021]
+
+---
+
+> Date [27.11.2021]
+
+---
+
+> Date [28.11.2021]
+
+---
